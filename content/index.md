@@ -1,5 +1,5 @@
 ---
-title: Welcome to Terry's website
+title: Welcome to Terry's Digital Garden
 ---
 
 终于可以在线托管了！！！
