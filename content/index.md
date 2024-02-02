@@ -1,19 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Terry's website
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+终于可以在线托管了！！！
 
-[[test note]]
 
  ```mermaid
- %%{ init: { 'flowchart': { 'cruve': '' },
-     'themeVariables':
-         { 'fontSize': '12px'}
- } }%%
- flowchart TB
- A-->B
+ flowchart LR
+ TP319--> TP319-1
+ TP319--> TP319-2
  
-click B "https://www.github.com" _blank
+
  ````
