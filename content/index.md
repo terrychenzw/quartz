@@ -1,10 +1,11 @@
 ---
-title: Welcome to Terry's Digital Garden
+title: Welcome to Terry's Digital Garden1
 ---
 
 终于可以在线托管了！！！
 
-[[my-zk-workflow]]
+> [!tip]- zk workflow
+> [[my-zk-workflow]]
 
  ```mermaid
  flowchart LR
