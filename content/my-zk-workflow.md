@@ -2,5 +2,5 @@
 title: zk workflow
 ---
 
-![[G203-1A-2A-1.png]]
+![[content/Zettels/G203-1A-2A-1.png]]
 
